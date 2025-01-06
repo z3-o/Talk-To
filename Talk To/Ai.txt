@@ -1,0 +1,4 @@
+Speech AI is a technology that facilitates communication between a computer system and a human using voice. 
+Think of technology like Siri and Alexa. Speech AI technology makes these voice assistants possible by 
+bridging the gap between what we say and how computers process that language
+___________________________________________________________________________________________________________
